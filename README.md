@@ -1,6 +1,7 @@
 
 ### Made with Sugar Spice & Everything Nice
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=miacarmen&repo=github-readme-stats)](https://github.com/miacarmen/github-readme-stats)
 
 ![Mia's GitHub stats](https://github-readme-stats.vercel.app/api?username=miacarmen&show_icons=true&theme=shades-of-purple)
 
