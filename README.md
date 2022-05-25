@@ -50,7 +50,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="your link" target="blank"><img align="center" src="linkedin-48.png" alt="" height="30" width="40" /></a>
+<a href="your link" target="blank"><img align="center" src="/assets/images/linkedin-48.png" alt="" height="30" width="40" /></a>
 <a href="your link" target="blank"><img align="center" src="instagram-6-48.png" alt="" height="30" width="40" /></a>
 
 </p>
