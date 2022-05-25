@@ -50,7 +50,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="your link" target="blank"><img align="center" src="/assets/images/linkedin-6-48.png" alt="" height="30" width="40" /></a>
-<a href="your link" target="blank"><img align="center" src="[https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg](https://user-images.githubusercontent.com/71575282/170160330-f9224f98-49a0-4de9-9924-bdbc36573f1a.png)" alt="" height="30" width="40" /></a>
+<a href="your link" target="blank"><img align="center" src="linkedin-48.png" alt="" height="30" width="40" /></a>
+<a href="your link" target="blank"><img align="center" src="instagram-6-48.png" alt="" height="30" width="40" /></a>
 
 </p>
