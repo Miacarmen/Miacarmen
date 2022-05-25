@@ -80,7 +80,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left" style="padding: 5px">
 
-<a href="your link" target="blank"><img align="center" src="/assets/images/linkedin-48.png" alt="linkedin" height="30" width="30"/></a>
-<a href="your link" target="blank"><img align="center" src="/assets/images/instagram-6-48.png" alt="instagram" height="30" width="30" /></a>
+<a href="your link" target="blank"><img align="center" src="/assets/linkedin-3-32.png" alt="linkedin" height="30" width="30"/></a>
+<a href="your link" target="blank"><img align="center" src="/assets/images/instagram-6-32.png" alt="instagram" height="30" width="30" /></a>
 
 </p>
