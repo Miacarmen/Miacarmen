@@ -1,6 +1,9 @@
 
 ### Made with Sugar Spice & Everything Nice
 
+![Profile Views](https://komarev.com/ghpvc/?username=miacarmen&style=for-the-badge&color=ff69b4)
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Mia's GitHub stats](https://github-readme-stats.vercel.app/api?username=miacarmen&show_icons=true&theme=jolly)
