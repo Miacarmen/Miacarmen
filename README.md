@@ -6,12 +6,6 @@
 ![Mia's GitHub stats](https://github-readme-stats.vercel.app/api?username=miacarmen&show_icons=true&theme=jolly)
 
 ## Repos
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=miacarmen&repo=super_girly_note_taker&theme=jolly)](https://github.com/Miacarmen/super_girly_note_taker)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=miacarmen&repo=Day-Planner&theme=jolly)](https://github.com/Miacarmen/Day-Planner)
