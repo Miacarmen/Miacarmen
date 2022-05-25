@@ -49,6 +49,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/mia-carmen-7750a6b8/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
-<a href="https://www.instagram.com/thedevilsdisko/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
+
+<a href="your link" target="blank"><img align="center" src="[https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg](https://user-images.githubusercontent.com/71575282/170160412-e22132ee-45aa-4af1-bc44-319dab2676c6.png)" alt="" height="30" width="40" /></a>
+<a href="your link" target="blank"><img align="center" src="[https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg](https://user-images.githubusercontent.com/71575282/170160330-f9224f98-49a0-4de9-9924-bdbc36573f1a.png)" alt="" height="30" width="40" /></a>
+
 </p>
