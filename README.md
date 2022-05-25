@@ -10,7 +10,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=miacarmen&repo=super_girly_note_taker&theme=jolly)](https://github.com/Miacarmen/super_girly_note_taker)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=miacarmen&repo=Day-Planner&theme=jolly)](https://github.com/Miacarmen/Day-Planner)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=miacarmen&repo=team-profile-generator&theme=jolly)](https://github.com/Miacarmen/team-profile-generator)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=miacarmen&repo=mise-en-place&theme=midnight-jolly)](https://github.com/Miacarmen/mise-en-place)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=miacarmen&repo=mise-en-place&theme=jolly)](https://github.com/Miacarmen/mise-en-place)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=miacarmen&repo=actually-professional-portfolio&theme=jolly)](https://github.com/Miacarmen/actually-professional-portfolio)
 
 
