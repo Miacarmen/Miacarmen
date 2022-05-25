@@ -1,8 +1,6 @@
 
 ### Made with Sugar Spice & Everything Nice
 
-![Profile Views](https://komarev.com/ghpvc/?username=miacarmen&style=for-the-badge&color=ff69b4)
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -46,6 +44,7 @@
 <img src="https://img.shields.io/badge/Lighthouse-F44B21?style=for-the-badge&logo=Lighthouse&logoColor=white" />
 </p> 
 
+![Profile Views](https://komarev.com/ghpvc/?username=miacarmen&style=for-the-badge&color=ff69b4)
 
 
 <h3 align="left">Connect with me:</h3>
