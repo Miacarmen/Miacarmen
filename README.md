@@ -49,8 +49,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-![linkedin-32](https://user-images.githubusercontent.com/71575282/170160520-64671b25-edfb-47eb-a1be-e49ac81c2c85.png)
-  ![instagram-6-32](https://user-images.githubusercontent.com/71575282/170160546-3539e14a-e9d7-4426-b461-201f17e76543.png)
+
 <a href="your link" target="blank"><img align="center" src="[https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg](https://user-images.githubusercontent.com/71575282/170160412-e22132ee-45aa-4af1-bc44-319dab2676c6.png)" alt="" height="30" width="40" /></a>
 <a href="your link" target="blank"><img align="center" src="[https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg](https://user-images.githubusercontent.com/71575282/170160330-f9224f98-49a0-4de9-9924-bdbc36573f1a.png)" alt="" height="30" width="40" /></a>
 
