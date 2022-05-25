@@ -1,6 +1,14 @@
 
 ### Made with Sugar Spice & Everything Nice
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=shades-of-purple)](https://github.com/anuraghazra/github-readme-stats)
+
+![Mia's GitHub stats](https://github-readme-stats.vercel.app/api?username=miacarmen&show_icons=true&theme=shades-of-purple)
+
+## Repos
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=miacarmen&repo=super_girly_note_taker&theme=shades-of-purple)](https://github.com/Miacarmen/super_girly_note_taker)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=miacarmen&repo=Day-Planner&theme=shades-of-purple)](https://github.com/Miacarmen/Day-Planner)
 
 ## Skills
 
@@ -33,14 +41,6 @@
 <img src="https://img.shields.io/badge/Lighthouse-F44B21?style=for-the-badge&logo=Lighthouse&logoColor=white" />
 </p> 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=shades-of-purple)](https://github.com/anuraghazra/github-readme-stats)
 
-## Stats
-
-![Mia's GitHub stats](https://github-readme-stats.vercel.app/api?username=miacarmen&show_icons=true&theme=shades-of-purple)
-
-## Repos
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=miacarmen&repo=super_girly_note_taker&theme=shades-of-purple)](https://github.com/Miacarmen/super_girly_note_taker)
 
 
