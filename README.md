@@ -8,11 +8,12 @@
 
 ## Repos
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=miacarmen&repo=react-portfolio&theme=midnight-purple)](https://github.com/Miacarmen/react-portfolio)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=miacarmen&repo=super_girly_note_taker&theme=midnight-purple)](https://github.com/Miacarmen/super_girly_note_taker)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=miacarmen&repo=Day-Planner&theme=midnight-purple)](https://github.com/Miacarmen/Day-Planner)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=miacarmen&repo=team-profile-generator&theme=midnight-purple)](https://github.com/Miacarmen/team-profile-generator)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=miacarmen&repo=mise-en-place&theme=midnight-purple)](https://github.com/Miacarmen/mise-en-place)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=miacarmen&repo=react-portfolio&theme=midnight-purple)](https://github.com/Miacarmen/react-portfolio)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=miacarmen&repo=adventure-book&theme=midnight-purple)](https://github.com/Miacarmen/adventure-book)
 
 ## Skills
 
